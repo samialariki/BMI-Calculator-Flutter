@@ -1,1 +1,2 @@
-# BMI-Calculator-Flutter
+# BMI-Calculator-Flutter 💪
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
